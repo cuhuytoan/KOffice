@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOffice.UnitTest", "KOffice.UnitTest\KOffice.UnitTest.csproj", "{1B2CF18C-8A5C-463E-915E-ED4379D28A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOffice.Web", "KOffice.Web\KOffice.Web.csproj", "{6EC905B0-BF1C-4E32-9406-009E77E2692B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOffice.Common", "KOffice.Common\KOffice.Common.csproj", "{014C3484-20CA-4FA3-A552-57CDE251B780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOffice.Data", "KOffice.Data\KOffice.Data.csproj", "{2CBF5051-612C-47E3-8355-79F4E705C000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOffice.Model", "KOffice.Model\KOffice.Model.csproj", "{7D731FF8-C567-4936-B1B1-D765CEECECBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOffice.Service", "KOffice.Service\KOffice.Service.csproj", "{9359C65D-2F15-42DC-8AB8-8814C66850FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2CF18C-8A5C-463E-915E-ED4379D28A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2CF18C-8A5C-463E-915E-ED4379D28A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2CF18C-8A5C-463E-915E-ED4379D28A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2CF18C-8A5C-463E-915E-ED4379D28A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC905B0-BF1C-4E32-9406-009E77E2692B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC905B0-BF1C-4E32-9406-009E77E2692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC905B0-BF1C-4E32-9406-009E77E2692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC905B0-BF1C-4E32-9406-009E77E2692B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014C3484-20CA-4FA3-A552-57CDE251B780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014C3484-20CA-4FA3-A552-57CDE251B780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014C3484-20CA-4FA3-A552-57CDE251B780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014C3484-20CA-4FA3-A552-57CDE251B780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBF5051-612C-47E3-8355-79F4E705C000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBF5051-612C-47E3-8355-79F4E705C000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBF5051-612C-47E3-8355-79F4E705C000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBF5051-612C-47E3-8355-79F4E705C000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D731FF8-C567-4936-B1B1-D765CEECECBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D731FF8-C567-4936-B1B1-D765CEECECBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D731FF8-C567-4936-B1B1-D765CEECECBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D731FF8-C567-4936-B1B1-D765CEECECBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9359C65D-2F15-42DC-8AB8-8814C66850FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9359C65D-2F15-42DC-8AB8-8814C66850FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9359C65D-2F15-42DC-8AB8-8814C66850FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9359C65D-2F15-42DC-8AB8-8814C66850FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A98301-3E38-433E-8A5B-436E4C5ADC5D}
+	EndGlobalSection
+EndGlobal
